@@ -1,0 +1,4 @@
+conda create -n anomalib_env python=3.10; conda activate anomalib_env
+!pip install -U torchvision einops FrEIA timm open_clip_torch imgaug lightning kornia openvino git+https://github.com/openvinotoolkit/anomalib.git
+!pip install -U git+https://github.com/voxel51/fiftyone.git
+!pip install -U huggingface_hub umap-learn git+https://github.com/openai/CLIP.git
