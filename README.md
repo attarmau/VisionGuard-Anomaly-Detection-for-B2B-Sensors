@@ -7,3 +7,5 @@ The files covers the following:
 - Loading the MVTec AD dataset in FiftyOne
 - Training an anomaly detection model with Anomalib
 - Evaluating anomaly detection models in FiftyOne
+
+![Uploading istockphoto-2139707587-1024x1024.jpg…]()
