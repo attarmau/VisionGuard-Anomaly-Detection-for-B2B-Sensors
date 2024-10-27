@@ -8,4 +8,4 @@ The files covers the following:
 - Training an anomaly detection model with Anomalib
 - Evaluating anomaly detection models in FiftyOne
 
-![Uploading istockphoto-2139707587-1024x1024.jpg…]()
+![istockphoto-2139707587-1024x1024](https://github.com/user-attachments/assets/37662bb1-efdc-4158-806b-a16340f238ee)
