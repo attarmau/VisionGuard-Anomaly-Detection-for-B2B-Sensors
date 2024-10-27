@@ -1,3 +1,4 @@
+# Anomaly Detection in Images for B2B Sensor Products
 ![istockphoto-2139707587-1024x1024](https://github.com/user-attachments/assets/37662bb1-efdc-4158-806b-a16340f238ee)
 
 Anomaly detection (AD) is a crucial task in mission-critical applications such as fraud detection, network security, and medical diagnosis. Anomaly detection on visual data like images, videos, and satellite imagery, is particularly challenging task due to the high dimensionality of the data and the complexity of the underlying patterns. Yet visual anomaly detection is essential for detecting defects in manufacturing, identifying suspicious activity in surveillance footage, and detecting abnormalities in medical images.
