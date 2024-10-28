@@ -5,7 +5,7 @@ Anomaly detection (AD) is a crucial task in mission-critical applications such a
 
 In this walkthrough, the process of performing anomaly detection on visual data using FiftyOne and Anomalib from the OpenVINO™ toolkit will be explored. The MVTec AD dataset will be used for demonstration, containing images of various objects with anomalies such as scratches, dents, and holes. In many deployment scenarios, this technique can be applied to the manufacturing industry to detect anomalies on production lines.
 
-The files covers the following:
+The files cover the following:
 
 - Loading the MVTec AD dataset in FiftyOne
 - Training an anomaly detection model with Anomalib
